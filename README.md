@@ -1,2 +1,11 @@
-# canil_with_node
-Site for pets
+# nodes-canil
+Projeto feito no módulo do curso Node + Typescript
+
+### Pré requisitos globais :
+` nmp i -g nodemon typescript ts-node`
+
+### Instalação
+`npm install`
+
+### Para rodar o projeto
+`npm run start-dev`
